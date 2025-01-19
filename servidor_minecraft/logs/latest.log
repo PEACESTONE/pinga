@@ -4111,3 +4111,125 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Jan2025 21:09:14.727] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
 [19Jan2025 21:09:14.727] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5c250e4[id=<null>,name=midxnight2410x,properties={},legacy=false] (/127.50.82.112:41457): Unexpected custom data from client
 [19Jan2025 21:09:14.748] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c250e4[id=<null>,name=midxnight2410x,properties={},legacy=false] (/127.50.82.112:41457) lost connection: Unexpected custom data from client
+[19Jan2025 21:14:29.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Jan2025 21:14:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 0op quacraft<--[HERE]
+[19Jan2025 21:15:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made quacraft a server operator
+[19Jan2025 21:15:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: The difficulty has been set to Hard]
+[19Jan2025 21:18:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by The Moonflower
+[19Jan2025 21:18:25.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: midxnight2410x[/127.50.82.112:59103] logged in with entity id 2438 at (-9.5, 63.0, -3.5)
+[19Jan2025 21:18:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x joined the game
+[19Jan2025 21:18:25.060] [Server thread/INFO] [Jade/]: Syncing config to midxnight2410x (a44243de-7962-3594-b309-b701fcf48ac3)
+[19Jan2025 21:18:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has completed the challenge [The Undead]
+[19Jan2025 21:18:32.359] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of midxnight2410x (18)
+[19Jan2025 21:18:32.360] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to midxnight2410x
+[19Jan2025 21:19:25.301] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	Index: 14
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.mcreator.anomaly.procedures.AnomalyBaseOnInitialEntitySpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.mcreator.undeadrevamp.procedures.AdvancecollectionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.man.procedures.EntchantmentTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: com.mrcrayfish.backpacked.Backpacked@6e9f815d onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: com.lgow.endofherobrine.event.WrathHandler@3bc88f3 wrathAdvancement(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.borninchaosv.procedures.WarningSoundProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.arphex.procedures.GameModeDetectorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: class net.arphex.procedures.DimensionTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.borninchaosv.init.ItemAnimationFactory animatedItems(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: com.mrcrayfish.framework.event.ForgeEvents@bc01522 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: mcjty.incontrol.ForgeEventHandlers@df9694d onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
+	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.22/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[19Jan2025 21:19:25.331] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.72.25.114:48855
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
+	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:68) ~[the_knocker-1.4.0-forge-1.20.1.jar%23252!/:?]
+	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.20.1.jar%23252!/:?]
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:108) ~[the_knocker-1.4.0-forge-1.20.1.jar%23252!/:?]
+	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.20.1.jar%23252!/:?]
+	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.20.1.jar%23252!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.22-universal.jar%23264!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	... 9 more
+[19Jan2025 21:19:25.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quacraft lost connection: Internal server error
+[19Jan2025 21:19:25.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft left the game
+[19Jan2025 21:19:25.355] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quacraft
+[19Jan2025 21:19:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was slain by The Moonflower
+[19Jan2025 21:19:34.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was slain by Zombie
+[19Jan2025 21:19:49.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has reached the goal [Feeling Watched]
+[19Jan2025 21:19:49.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quacraft[/127.72.25.114:44333] logged in with entity id 2657 at (5.699999988079071, 67.0, -7.547445092263906)
+[19Jan2025 21:19:49.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft joined the game
+[19Jan2025 21:19:49.717] [Server thread/INFO] [Jade/]: Syncing config to quacraft (7d2c6862-8b77-3432-8fa4-fc5632853675)
+[19Jan2025 21:19:49.961] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quacraft (18)
+[19Jan2025 21:19:49.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quacraft
+[19Jan2025 21:20:57.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=68, z=-9}
+[19Jan2025 21:20:58.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=68, z=-9}
+[19Jan2025 21:20:59.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=67, z=-8}
+[19Jan2025 21:21:01.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=-8}
+[19Jan2025 21:21:01.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=-7}
+[19Jan2025 21:21:07.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=68, z=-9}
+[19Jan2025 21:21:08.841] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=18, y=67, z=34}
+[19Jan2025 21:21:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Dread Hound
+[19Jan2025 21:21:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Cover Me with Diamonds]
+[19Jan2025 21:21:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was slain by Dread Hound
+[19Jan2025 21:21:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Dread Hound
+[19Jan2025 21:22:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Dread Hound
+[19Jan2025 21:22:15.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=62, z=-6}
+[19Jan2025 21:22:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Food Fight]
+[19Jan2025 21:26:22.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=71, z=35} BlockPos{x=2, y=63, z=-1}
+[19Jan2025 21:26:32.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=71, z=35} BlockPos{x=4, y=62, z=-7}
+[19Jan2025 21:26:32.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=71, z=35} BlockPos{x=4, y=63, z=-7}
+[19Jan2025 21:26:36.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=71, z=35} BlockPos{x=4, y=63, z=-7}
+[19Jan2025 21:27:46.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: midxnight2410x lost connection: Disconnected
+[19Jan2025 21:27:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x left the game
+[19Jan2025 21:27:46.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client midxnight2410x
+[19Jan2025 21:32:08.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Sweet Dreams]
+[19Jan2025 21:32:22.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: midxnight2410x[/127.50.82.112:52985] logged in with entity id 4901 at (9.134502736557828, 63.0, -5.567279735271534)
+[19Jan2025 21:32:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x joined the game
+[19Jan2025 21:32:22.862] [Server thread/INFO] [Jade/]: Syncing config to midxnight2410x (a44243de-7962-3594-b309-b701fcf48ac3)
+[19Jan2025 21:32:24.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of midxnight2410x (18)
+[19Jan2025 21:32:24.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to midxnight2410x
