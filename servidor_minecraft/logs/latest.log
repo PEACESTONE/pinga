@@ -4254,3 +4254,19 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 [19Jan2025 21:51:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Dark Metallurgy]
 [19Jan2025 21:51:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Spider
 [19Jan2025 21:52:29.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Acquire Hardware]
+[19Jan2025 21:53:03.340] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=154, y=64, z=76}
+[19Jan2025 21:53:29.168] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jan2025 21:53:29.168] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jan2025 21:54:13.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: midxnight2410x moved too quickly! 9.862715570897024,-1.996983738490954,0.7934593431857966
+[19Jan2025 21:54:13.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quacraft moved too quickly! 9.898220939463954,-2.024424088213692,0.26542963961241384
+[19Jan2025 21:54:13.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3368ms or 67 ticks behind
+[19Jan2025 21:55:31.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Food Fight]
+[19Jan2025 21:55:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by midxnight2410x
+[19Jan2025 21:56:12.140] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=378, y=85, z=4}
+[19Jan2025 21:56:12.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Bypassing the Expiration Date]
+[19Jan2025 21:56:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Acquire Hardware]
+[19Jan2025 22:00:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was slain by Grizzly Bear
+[19Jan2025 22:00:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Pic-A-Nic Basket?]
+[19Jan2025 22:00:32.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Pic-A-Nic Basket?]
+[19Jan2025 22:00:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Grizzly Bear
+[19Jan2025 22:02:14.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was slain by Grizzly Bear
