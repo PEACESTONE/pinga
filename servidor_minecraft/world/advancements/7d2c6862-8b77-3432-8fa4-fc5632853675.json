@@ -555,10 +555,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-19 21:59:41 +0000",
       "apple": "2025-01-19 21:44:47 +0000",
       "mutton": "2025-01-19 21:14:51 +0000",
       "bread": "2025-01-19 21:42:56 +0000",
-      "golden_carrot": "2025-01-19 21:36:31 +0000"
+      "golden_carrot": "2025-01-19 21:36:31 +0000",
+      "cooked_chicken": "2025-01-19 21:58:44 +0000"
     },
     "done": false
   },
@@ -1111,6 +1113,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 21:52:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-19 22:09:24 +0000"
     },
     "done": true
   },
@@ -1669,6 +1677,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-01-19 21:52:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-19 22:09:24 +0000"
     },
     "done": true
   },
@@ -2308,6 +2322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-19 22:09:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-19 21:52:29 +0000"
@@ -2447,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-19 22:09:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 21:52:29 +0000"
@@ -2582,6 +2608,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-01-19 21:53:45 +0000",
+      "maple_woods": "2025-01-19 22:10:56 +0000",
       "pumpkin_patch": "2025-01-19 21:57:52 +0000"
     },
     "done": false
@@ -3102,9 +3129,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-19 22:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-19 22:09:24 +0000"
     },
     "done": true
   },
