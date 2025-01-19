@@ -554,7 +554,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-01-19 21:14:51 +0000"
+      "mutton": "2025-01-19 21:14:51 +0000",
+      "golden_carrot": "2025-01-19 21:36:31 +0000"
     },
     "done": false
   },
@@ -564,9 +565,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -636,9 +649,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
     },
     "done": true
   },
@@ -678,6 +709,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:27:08 +0000"
@@ -702,6 +745,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
@@ -711,6 +760,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-19 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
     },
     "done": true
   },
@@ -738,6 +793,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-19 21:25:00 +0000"
@@ -753,6 +814,24 @@
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-19 21:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -777,6 +856,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_birch_planks": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -816,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_birch_planks": "2025-01-19 21:24:17 +0000"
@@ -846,9 +937,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -858,9 +961,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_birch_planks": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-19 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -873,6 +994,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -936,6 +1063,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-19 21:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
@@ -951,6 +1090,18 @@
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
     },
     "done": true
   },
@@ -984,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-19 21:23:56 +0000"
@@ -1002,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
@@ -1014,15 +1177,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 21:36:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-01-19 21:24:17 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1056,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
@@ -1086,15 +1291,51 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 21:36:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1122,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
@@ -1131,6 +1378,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1188,9 +1441,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-01-19 21:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-19 21:36:07 +0000"
     },
     "done": true
   },
@@ -1206,15 +1477,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-19 21:34:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_birch_planks": "2025-01-19 21:24:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-19 21:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1230,10 +1531,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-19 21:27:08 +0000",
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -1246,6 +1565,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -1264,6 +1589,12 @@
   "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1297,6 +1628,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_bath": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
@@ -1321,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
@@ -1339,15 +1682,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_basin": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1363,6 +1724,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
@@ -1372,6 +1739,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-01-19 21:27:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_support": {
+    "criteria": {
+      "has_plank": "2025-01-19 21:36:59 +0000"
     },
     "done": true
   },
@@ -1399,15 +1772,57 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-01-19 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-01-19 21:36:05 +0000"
     },
     "done": true
   },
@@ -1507,6 +1922,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
@@ -1543,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
@@ -1564,6 +1991,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-01-19 21:31:25 +0000"
     },
     "done": true
   },
@@ -1591,6 +2024,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
@@ -1609,15 +2048,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_the_recipe": "2025-01-19 21:27:08 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-19 21:37:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-19 21:21:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -1639,9 +2102,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-01-19 21:36:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-19 21:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -1684,6 +2159,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-19 21:37:20 +0000"
     },
     "done": true
   },
@@ -1732,6 +2213,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-01-19 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-19 21:36:07 +0000"
     },
     "done": true
   },

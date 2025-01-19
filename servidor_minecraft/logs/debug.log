@@ -8323,3 +8323,15 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 [19Jan2025 21:32:24.731] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with midxnight2410x
 [19Jan2025 21:32:24.731] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with midxnight2410x
 [19Jan2025 21:32:24.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to midxnight2410x
+[19Jan2025 21:32:56.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:32:56.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 21:33:33.790] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-4, y=67, z=21}
+[19Jan2025 21:35:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Stone Age]
+[19Jan2025 21:35:46.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x has made the advancement [Getting an Upgrade]
+[19Jan2025 21:37:20.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Stone Age]
+[19Jan2025 21:37:30.340] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=33, y=68, z=81}
+[19Jan2025 21:37:56.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:37:56.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 21:39:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Getting an Upgrade]
+[19Jan2025 21:41:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: midxnight2410x was shot by Skeleton
+[19Jan2025 21:41:16.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Skeleton
