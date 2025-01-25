@@ -28,3 +28,33 @@
 [18:24:40] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
 [18:24:46] [Server thread/INFO]: [midxnight2410x: Made midxnight2410x no longer a server operator]
 [18:24:52] [Server thread/INFO]: [quacraft: Made quacraft no longer a server operator]
+[18:25:58] [Server thread/INFO]: midxnight2410x lost connection: Timed out
+[18:25:58] [Server thread/INFO]: midxnight2410x left the game
+[18:25:58] [Server thread/WARN]: handleDisconnection() called twice
+[18:30:07] [Server thread/INFO]: midxnight2410x[/127.50.82.112:54589] logged in with entity id 1871 at (-139.4688198121574, 116.0, -29.38914870038083)
+[18:30:07] [Server thread/INFO]: midxnight2410x joined the game
+[18:31:20] [Server thread/INFO]: quacraft was shot by Skeleton
+[18:33:07] [Server thread/INFO]: midxnight2410x lost connection: Timed out
+[18:33:07] [Server thread/INFO]: midxnight2410x left the game
+[18:33:19] [Server thread/INFO]: quacraft lost connection: Timed out
+[18:33:19] [Server thread/INFO]: quacraft left the game
+[18:33:55] [Server thread/INFO]: midxnight2410x[/127.50.82.112:59397] logged in with entity id 2837 at (-161.43994466631227, 73.0, -134.74192929095074)
+[18:33:55] [Server thread/INFO]: midxnight2410x joined the game
+[18:34:00] [Server thread/INFO]: quacraft[/127.50.120.187:39355] logged in with entity id 3092 at (-57.30000001192093, 104.0, -101.54556032141164)
+[18:34:00] [Server thread/INFO]: quacraft joined the game
+[18:34:25] [Server thread/INFO]: midxnight2410x lost connection: Timed out
+[18:34:25] [Server thread/INFO]: midxnight2410x left the game
+[18:34:29] [Server thread/INFO]: [Not Secure] <quacraft> OLS
+[18:34:30] [Server thread/INFO]: quacraft lost connection: Timed out
+[18:34:30] [Server thread/INFO]: quacraft left the game
+[18:34:48] [Server thread/INFO]: Stopping the server
+[18:34:48] [Server thread/INFO]: Stopping server
+[18:34:48] [Server thread/INFO]: Saving players
+[18:34:48] [Server thread/INFO]: Saving worlds
+[18:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
