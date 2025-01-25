@@ -18,3 +18,13 @@
 [18:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 38%
 [18:05:17] [Server thread/INFO]: Time elapsed: 1198 ms
 [18:05:17] [Server thread/INFO]: Done (4.415s)! For help, type "help"
+[18:22:43] [Server thread/INFO]: midxnight2410x[/127.50.82.112:59507] logged in with entity id 11 at (-148.47432933808795, 66.0, -107.30000001192093)
+[18:22:43] [Server thread/INFO]: midxnight2410x joined the game
+[18:23:18] [Server thread/INFO]: quacraft[/127.50.120.187:54023] logged in with entity id 324 at (9.300000011920929, 29.0, -248.7949372021449)
+[18:23:18] [Server thread/INFO]: quacraft joined the game
+[18:24:21] [Server thread/INFO]: Made midxnight2410x a server operator
+[18:24:28] [Server thread/INFO]: Made quacraft a server operator
+[18:24:30] [Server thread/INFO]: [midxnight2410x: Set own game mode to Spectator Mode]
+[18:24:40] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[18:24:46] [Server thread/INFO]: [midxnight2410x: Made midxnight2410x no longer a server operator]
+[18:24:52] [Server thread/INFO]: [quacraft: Made quacraft no longer a server operator]
