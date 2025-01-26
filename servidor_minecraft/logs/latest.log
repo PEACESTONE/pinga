@@ -600,3 +600,54 @@
 [03:35:18] [Server thread/INFO]: [midxnight2410x: Set own game mode to Spectator Mode]
 [03:35:49] [Server thread/INFO]: [midxnight2410x: Set own game mode to Adventure Mode]
 [03:35:52] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[03:36:25] [Server thread/INFO]: [quacraft: Gave 1 [Command Block] to quacraft]
+[03:36:49] [Server thread/INFO]: Villager cmk['Nitwit'/39884, l='ServerLevel[world]', x=1319.30, y=113.00, z=625.14] died, message: 'Nitwit was slain by Zombie Villager'
+[03:37:19] [Server thread/INFO]: [24midxnight10: Set own game mode to Survival Mode]
+[03:37:35] [Server thread/INFO]: [quacraft: Set own game mode to Survival Mode]
+[03:37:40] [Server thread/INFO]: quacraft was killed
+[03:37:40] [Server thread/INFO]: [24midxnight10: Killed quacraft]
+[03:37:44] [Server thread/INFO]: [quacraft: Applied effect Levitation to 24midxnight10]
+[03:37:51] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:37:54] [Server thread/INFO]: [24midxnight10: Teleported quacraft to 1000.500000, -10000.000000, 1000.500000]
+[03:37:56] [Server thread/INFO]: quacraft fell out of the world
+[03:37:59] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:01] [Server thread/INFO]: [24midxnight10: Removed every effect from 24midxnight10]
+[03:38:08] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:09] [Server thread/INFO]: [quacraft: Applied effect Levitation to 24midxnight10]
+[03:38:09] [Server thread/INFO]: quacraft was slain by 24midxnight10
+[03:38:11] [Server thread/WARN]: 24midxnight10 moved too quickly! -0.14669696619057504,23.211668465704292,-0.019607314588597546
+[03:38:13] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.0,23.22638245316955,0.0
+[03:38:14] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.0,20.910892956145858,0.0
+[03:38:16] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.0,23.2068672720834,0.0
+[03:38:16] [Server thread/INFO]: midxnight2410x hit the ground too hard
+[03:38:17] [Server thread/INFO]: [24midxnight10: Removed every effect from 24midxnight10]
+[03:38:17] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.0,20.91089295614597,0.0
+[03:38:17] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:19] [Server thread/INFO]: [24midxnight10: Teleported 24midxnight10 to 1225.450000, 123.200000, 644.610000]
+[03:38:19] [Server thread/INFO]: 24midxnight10 fell from a high place
+[03:38:21] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:21] [Server thread/INFO]: [midxnight2410x: Set own game mode to Spectator Mode]
+[03:38:21] [Server thread/INFO]: quacraft fell from a high place
+[03:38:24] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:25] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:26] [Server thread/INFO]: [quacraft: Teleported quacraft to 24midxnight10]
+[03:38:27] [Server thread/INFO]: [quacraft: Applied effect Levitation to 24midxnight10]
+[03:38:28] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.18748000842424517,22.533649608997393,0.046154601634952996
+[03:38:31] [Server thread/WARN]: 24midxnight10 moved too quickly! 0.0,23.229547286905472,0.0
+[03:38:31] [Server thread/INFO]: 24midxnight10 lost connection: Disconnected
+[03:38:31] [Server thread/INFO]: 24midxnight10 left the game
+[03:38:42] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[03:39:40] [Server thread/INFO]: [quacraft: Gave 1 [Command Block] to quacraft]
+[03:39:41] [Server thread/INFO]: [quacraft: Set own game mode to Creative Mode]
+[03:39:48] [Server thread/INFO]: [quacraft: Set own game mode to Survival Mode]
+[03:44:56] [Server thread/INFO]: [midxnight2410x: Set own game mode to Creative Mode]
+[03:45:06] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[03:47:39] [Server thread/INFO]: quacraft lost connection: Disconnected
+[03:47:39] [Server thread/INFO]: quacraft left the game
+[03:49:30] [Server thread/INFO]: [midxnight2410x: Set own game mode to Spectator Mode]
+[03:49:44] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[03:50:44] [Server thread/INFO]: [midxnight2410x: Set own game mode to Spectator Mode]
+[03:50:52] [Server thread/WARN]: midxnight2410x moved too quickly! 8.115949138901797,3.7480663917629897,-6.929724786861641
+[03:50:55] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
+[03:51:56] [Server thread/INFO]: [midxnight2410x: Set own game mode to Creative Mode]
+[03:54:22] [Server thread/INFO]: [midxnight2410x: Set own game mode to Survival Mode]
