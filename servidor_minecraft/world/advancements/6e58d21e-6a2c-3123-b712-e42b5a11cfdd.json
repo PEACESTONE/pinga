@@ -8,13 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-01-26 01:59:03 +0000",
+      "minecraft:dark_forest": "2025-01-26 03:24:58 +0000",
       "minecraft:forest": "2025-01-26 01:47:03 +0000",
       "minecraft:taiga": "2025-01-26 02:48:18 +0000",
       "minecraft:deep_dark": "2025-01-26 02:17:40 +0000",
+      "minecraft:jungle": "2025-01-26 03:23:29 +0000",
       "minecraft:river": "2025-01-26 01:51:08 +0000",
       "minecraft:meadow": "2025-01-26 01:47:53 +0000",
       "minecraft:birch_forest": "2025-01-26 01:50:31 +0000",
-      "minecraft:dripstone_caves": "2025-01-26 01:52:15 +0000"
+      "minecraft:dripstone_caves": "2025-01-26 01:52:15 +0000",
+      "minecraft:bamboo_jungle": "2025-01-26 03:23:11 +0000"
     },
     "done": false
   },
@@ -369,6 +372,7 @@
       "golden_apple": "2025-01-26 02:16:08 +0000",
       "bread": "2025-01-26 02:23:48 +0000",
       "cooked_chicken": "2025-01-26 03:10:16 +0000",
+      "enchanted_golden_apple": "2025-01-26 03:17:56 +0000",
       "salmon": "2025-01-26 02:00:52 +0000",
       "baked_potato": "2025-01-26 02:20:20 +0000",
       "cooked_salmon": "2025-01-26 01:54:43 +0000",
@@ -1267,6 +1271,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-26 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-26 03:27:34 +0000"
     },
     "done": true
   },
