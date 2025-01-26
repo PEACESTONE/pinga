@@ -4,5 +4,11 @@
     "name": "quacraft",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6e58d21e-6a2c-3123-b712-e42b5a11cfdd",
+    "name": "24midxnight10",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
