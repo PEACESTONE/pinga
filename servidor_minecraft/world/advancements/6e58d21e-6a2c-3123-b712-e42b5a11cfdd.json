@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_plains": "2025-01-28 02:32:59 +0000"
+      "minecraft:frozen_river": "2025-01-28 03:03:20 +0000",
+      "minecraft:snowy_plains": "2025-01-28 02:32:59 +0000",
+      "minecraft:snowy_taiga": "2025-01-28 03:04:05 +0000"
     },
     "done": false
   },
@@ -325,6 +327,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-01-28 03:04:12 +0000",
+      "minecraft:skeleton": "2025-01-28 03:00:26 +0000",
       "minecraft:zombie": "2025-01-28 02:40:24 +0000",
       "minecraft:zombie_villager": "2025-01-28 02:55:41 +0000"
     },
@@ -362,7 +366,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "salmon": "2025-01-28 02:42:10 +0000"
+      "salmon": "2025-01-28 02:42:10 +0000",
+      "cooked_salmon": "2025-01-28 02:57:40 +0000"
     },
     "done": false
   },
@@ -564,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 02:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-01-28 02:52:40 +0000"
@@ -648,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-28 02:53:03 +0000"
@@ -696,9 +713,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-28 02:59:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 02:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-28 03:00:27 +0000"
     },
     "done": true
   },
@@ -711,6 +746,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 02:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
     },
     "done": true
   },
@@ -729,6 +770,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-28 02:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 02:58:26 +0000"
     },
     "done": true
   },
@@ -756,9 +803,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-28 03:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 02:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 02:58:26 +0000"
     },
     "done": true
   },
@@ -783,6 +848,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-28 02:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
     },
     "done": true
   },
@@ -816,9 +887,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-28 03:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-28 02:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-28 02:59:28 +0000"
     },
     "done": true
   },
