@@ -4155,3 +4155,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Jan2025 16:52:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Voluntary Exile]
 [29Jan2025 16:52:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Pillager
 [29Jan2025 16:53:31.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was doomed to fall by Pillager
+[29Jan2025 16:54:43.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 24midxnight10[/127.50.82.112:53009] logged in with entity id 3923 at (61.172526914951874, 71.0, -292.59494167661546)
+[29Jan2025 16:54:43.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 joined the game
+[29Jan2025 16:54:43.746] [Server thread/INFO] [Jade/]: Syncing config to 24midxnight10 (6e58d21e-6a2c-3123-b712-e42b5a11cfdd)
+[29Jan2025 16:54:45.615] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 24midxnight10 (18)
+[29Jan2025 16:54:45.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 24midxnight10
+[29Jan2025 16:56:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Enderman
+[29Jan2025 16:57:22.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Man From The Fog
+[29Jan2025 16:57:56.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by 24midxnight10
+[29Jan2025 16:58:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by quacraft
+[29Jan2025 16:59:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by 24midxnight10
+[29Jan2025 16:59:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quacraft> tmr
+[29Jan2025 16:59:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <24midxnight10> se te apagó
+[29Jan2025 16:59:41.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 24midxnight10 lost connection: Disconnected
+[29Jan2025 16:59:41.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 left the game
+[29Jan2025 16:59:41.803] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 24midxnight10
+[29Jan2025 16:59:57.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quacraft lost connection: Disconnected
+[29Jan2025 16:59:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft left the game
+[29Jan2025 16:59:57.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client quacraft
+[29Jan2025 17:00:25.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 24midxnight10[/127.50.82.112:33383] logged in with entity id 6231 at (-1.240661630316552, 79.0, -20.94872060715363)
+[29Jan2025 17:00:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 joined the game
+[29Jan2025 17:00:25.654] [Server thread/INFO] [Jade/]: Syncing config to 24midxnight10 (6e58d21e-6a2c-3123-b712-e42b5a11cfdd)
+[29Jan2025 17:00:25.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 24midxnight10 (18)
+[29Jan2025 17:00:25.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 24midxnight10
+[29Jan2025 17:02:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 fell from a high place
+[29Jan2025 17:02:34.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 has reached the goal [Feeling Watched]
+[29Jan2025 17:02:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Fallen Chaos Knight
+[29Jan2025 17:03:28.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: quacraft[/127.72.25.114:50825] logged in with entity id 6844 at (-3.8222809082117517, 79.0, 0.6059713594949525)
+[29Jan2025 17:03:28.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft joined the game
+[29Jan2025 17:03:28.407] [Server thread/INFO] [Jade/]: Syncing config to quacraft (7d2c6862-8b77-3432-8fa4-fc5632853675)
+[29Jan2025 17:03:28.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quacraft (18)
+[29Jan2025 17:03:28.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quacraft
+[29Jan2025 17:03:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft tried to swim in lava
