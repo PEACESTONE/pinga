@@ -4254,3 +4254,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Jan2025 17:23:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Mine? Mine? Mine?]
 [29Jan2025 17:24:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Hornet Harbinger Giant
 [29Jan2025 17:24:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Spectator Mode]
+[29Jan2025 17:25:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:27.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:34.048] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=118, y=67, z=-436}
+[29Jan2025 17:25:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft fell from a high place
+[29Jan2025 17:25:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:25:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Survival Mode]
+[29Jan2025 17:29:16.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:29:25.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Cave Spider
+[29Jan2025 17:29:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Teleported 24midxnight10 to quacraft]
+[29Jan2025 17:29:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Cave Spider
+[29Jan2025 17:29:54.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:30:00.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Zombie
+[29Jan2025 17:30:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Teleported 24midxnight10 to quacraft]
+[29Jan2025 17:30:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Skeleton Thrasher
+[29Jan2025 17:30:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:30:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Skeleton
+[29Jan2025 17:30:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:31:07.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was shot by Skeleton
+[29Jan2025 17:31:08.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Skeleton Thrasher
+[29Jan2025 17:31:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:31:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Creative Mode]
+[29Jan2025 17:31:16.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Survival Mode]
+[29Jan2025 17:31:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Spectator Mode]
+[29Jan2025 17:31:22.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Skeleton
+[29Jan2025 17:31:30.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Teleported 24midxnight10 to quacraft]
+[29Jan2025 17:31:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Skeleton
+[29Jan2025 17:31:42.548] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=195, y=99, z=-482}
+[29Jan2025 17:32:00.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Survival Mode]
+[29Jan2025 17:32:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by The Hunter
+[29Jan2025 17:32:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:32:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was doomed to fall by The Hunter
+[29Jan2025 17:32:44.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:32:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Spectator Mode]
+[29Jan2025 17:32:51.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Set own game mode to Survival Mode]
+[29Jan2025 17:33:02.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by The Hunter
+[29Jan2025 17:33:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Teleported 24midxnight10 to quacraft]
+[29Jan2025 17:33:24.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 24midxnight10 was kicked for floating too long!
+[29Jan2025 17:33:24.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 24midxnight10 lost connection: Disconnected
+[29Jan2025 17:33:24.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 left the game
+[29Jan2025 17:33:24.614] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 24midxnight10
+[29Jan2025 17:33:24.657] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jan2025 17:33:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Baby Spider
