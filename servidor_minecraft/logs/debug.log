@@ -9699,3 +9699,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Jan2025 17:12:30.948] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=101, y=62, z=-37}
 [29Jan2025 17:13:49.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Summoned new Grub Organs]
 [29Jan2025 17:13:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Summoned new The Damned]
+[29Jan2025 17:14:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by The Damned
+[29Jan2025 17:14:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Condemned To Die]
+[29Jan2025 17:14:13.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:14:31.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 17:14:31.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 17:15:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by quacraft
+[29Jan2025 17:16:00.998] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=95, y=64, z=-72}
+[29Jan2025 17:16:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was squashed by a falling anvil
+[29Jan2025 17:16:23.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was doomed to fall by Pillager
+[29Jan2025 17:16:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Pillager
+[29Jan2025 17:17:10.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft died whilst trying to escape The Spitter
+[29Jan2025 17:17:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was shot by Skeleton
+[29Jan2025 17:18:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Stroms
+[29Jan2025 17:18:11.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:18:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:18:33.354] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[29Jan2025 17:18:33.354] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29Jan2025 17:18:33.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was blown up by Creeper
+[29Jan2025 17:18:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Zombie
+[29Jan2025 17:19:31.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 17:19:31.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 17:19:36.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:19:50.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Life turned out to be a comedy]
+[29Jan2025 17:20:02.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Zombie Bruiser
+[29Jan2025 17:20:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Made 24midxnight10 a server operator]
+[29Jan2025 17:20:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [24midxnight10: Teleported 24midxnight10 to quacraft]
+[29Jan2025 17:20:24.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Spider
+[29Jan2025 17:20:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Restless Spirit
+[29Jan2025 17:20:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:21:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 fell from a high place
+[29Jan2025 17:21:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:22:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Double Trouble]
+[29Jan2025 17:22:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Pillager
+[29Jan2025 17:22:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Decaying Zombie
+[29Jan2025 17:23:04.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Man From The Fog
+[29Jan2025 17:23:22.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 has made the advancement [Mine? Mine? Mine?]
+[29Jan2025 17:23:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by The Swarmer
+[29Jan2025 17:23:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Mine? Mine? Mine?]
+[29Jan2025 17:24:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Hornet Harbinger Giant
+[29Jan2025 17:24:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
