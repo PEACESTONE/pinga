@@ -4142,3 +4142,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Jan2025 16:37:51.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quacraft (18)
 [29Jan2025 16:37:51.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quacraft
 [29Jan2025 16:42:38.762] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=26, y=94, z=-3}
+[29Jan2025 16:49:46.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 24midxnight10[/127.50.82.112:58621] logged in with entity id 1962 at (67.19241155576714, 71.0, -311.5883258247235)
+[29Jan2025 16:49:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 joined the game
+[29Jan2025 16:49:46.499] [Server thread/INFO] [Jade/]: Syncing config to 24midxnight10 (6e58d21e-6a2c-3123-b712-e42b5a11cfdd)
+[29Jan2025 16:49:48.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 24midxnight10 (18)
+[29Jan2025 16:49:48.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 24midxnight10
+[29Jan2025 16:50:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <24midxnight10> gg
+[29Jan2025 16:50:47.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 24midxnight10 lost connection: Disconnected
+[29Jan2025 16:50:47.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 left the game
+[29Jan2025 16:50:47.565] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 24midxnight10
+[29Jan2025 16:50:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Pillager
+[29Jan2025 16:52:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Voluntary Exile]
+[29Jan2025 16:52:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was shot by Pillager
+[29Jan2025 16:53:31.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was doomed to fall by Pillager
