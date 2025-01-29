@@ -4187,3 +4187,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Jan2025 17:03:28.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of quacraft (18)
 [29Jan2025 17:03:28.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to quacraft
 [29Jan2025 17:03:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft tried to swim in lava
+[29Jan2025 17:04:01.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Fallen Chaos Knight
+[29Jan2025 17:04:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft has made the advancement [Dark Metallurgy]
+[29Jan2025 17:04:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:04:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Nightmare Stalker
+[29Jan2025 17:04:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft withered away whilst fighting Nightmare Stalker
+[29Jan2025 17:04:27.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Nightmare Stalker
+[29Jan2025 17:04:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:04:40.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Nightmare Stalker
+[29Jan2025 17:04:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:04:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:05:00.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made quacraft a server operator
+[29Jan2025 17:05:04.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was slain by Nightmare Stalker
+[29Jan2025 17:05:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was slain by Nightmare Stalker
+[29Jan2025 17:05:15.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=86, z=4}
+[29Jan2025 17:05:16.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: The difficulty has been set to Peaceful]
+[29Jan2025 17:05:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: The difficulty has been set to Hard]
+[29Jan2025 17:05:29.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=86, z=4}
+[29Jan2025 17:05:29.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=85, z=4}
+[29Jan2025 17:05:29.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=85, z=3}
+[29Jan2025 17:05:34.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=80, z=5}
+[29Jan2025 17:05:34.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=81, z=5}
+[29Jan2025 17:05:35.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=80, z=5}
+[29Jan2025 17:05:35.848] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=17, y=75, z=-33}
+[29Jan2025 17:05:35.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=81, z=5}
+[29Jan2025 17:05:35.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=80, z=5}
+[29Jan2025 17:05:37.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=79, z=4}
+[29Jan2025 17:06:10.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=80, z=5}
+[29Jan2025 17:07:04.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quacraft was doomed to fall by Pillager
+[29Jan2025 17:07:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 24midxnight10 was doomed to fall by quacraft
+[29Jan2025 17:10:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Teleported quacraft to 24midxnight10]
+[29Jan2025 17:12:30.948] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=101, y=62, z=-37}
+[29Jan2025 17:13:49.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Summoned new Grub Organs]
+[29Jan2025 17:13:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [quacraft: Summoned new The Damned]
